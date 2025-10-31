@@ -1,7 +1,7 @@
 🐍 Python 101 Eğitimi
 
-💻 Python'a Giriş
-• Python'un temelleri ve söz dizimi
+💻 Python'a Giriş\\
+• Python'un temelleri ve söz dizimi\\
 • Spyder kurulumu ve ayarları tanıma
 • print()ile yazdırma yazdırma
 • format()ile metin biçimlendirme
